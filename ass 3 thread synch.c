@@ -72,3 +72,7 @@ int main(){
     
     return 0;
 }
+
+
+//gcc name.c -o name -pthread
+// ./name
